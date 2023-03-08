@@ -2,4 +2,4 @@
 # https://docs.fastlane.tools/actions/scan/#scanfile
 
 scheme("CircleCi-ios")
-device("iPhone 13 Pro")
+device("iPhone 14 Pro")
